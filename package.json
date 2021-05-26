@@ -1,24 +1,24 @@
 {
-  "name": "img",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "init": "picpic init",
-    "build": "picpic build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MatrixAge/img.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MatrixAge/img/issues"
-  },
-  "homepage": "https://github.com/MatrixAge/img#readme",
-  "devDependencies": {
-    "@matrixage/picpic": "^1.3.0"
-  }
+      "name": "img",
+      "version": "1.0.0",
+      "description": "",
+      "main": "index.js",
+      "scripts": {
+            "test": "echo \"Error: no test specified\" && exit 1",
+            "init": "picpic init",
+            "build": "picpic build"
+      },
+      "repository": {
+            "type": "git",
+            "url": "git+https://github.com/MatrixAge/img.git"
+      },
+      "author": "",
+      "license": "ISC",
+      "bugs": {
+            "url": "https://github.com/MatrixAge/img/issues"
+      },
+      "homepage": "https://github.com/MatrixAge/img#readme",
+      "devDependencies": {
+            "@matrixage/picpic": "^1.5.0"
+      }
 }
