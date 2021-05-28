@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/MatrixAge/img#readme",
   "devDependencies": {
-    "@matrixage/picpic": "^1.5.2"
+    "@matrixage/picpic": "^1.5.3"
   }
 }
